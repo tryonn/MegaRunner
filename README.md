@@ -1,6 +1,6 @@
 # MegaRunner 
 
-	Game feito com os estudo baseado no curso de unity 3D,
+	Game feito baseado nos estudos do curso de unity 3D,
 	foi utilizado as sprite do megaman, e alguns som do mesmo.
 
 	A mecanica do game é, o player fica correndo sem parar, em quanto isso 
